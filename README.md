@@ -2,6 +2,7 @@
 A guitar utilities application for Android mobile devices.
 
 ![Prototype Tuner](/img/instr_images.png =200x330)
+<img src="/img/instr_images.png =200x330" data-canonical-src="/img/instr_images.png =200x330" width="200" height="400" />
 
 Built using the TarsosDSP Java library.
 [Documentation](https://0110.be/)
