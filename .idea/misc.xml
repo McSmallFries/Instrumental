@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable-anydpi/ic_spinner_expand.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/arrow_drop_up.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/button_generic.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/homepage_button.xml" value="0.29635416666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/homepage_button_green.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/homepage_button_purple.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/homepage_button_red.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/homepage_button_yellow.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/ic_arrow.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/ic_help.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/ic_settings.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/ic_tuner.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/ic_tuning_direction.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/ic_tuning_direction_correct.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/spinner_bg_std.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/spinner_item.xml" value="0.20277777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/drawable/style_spinner.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/layout/activity_tuner.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instrumental/app/src/main/res/layout/spinner.xml" value="0.23125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

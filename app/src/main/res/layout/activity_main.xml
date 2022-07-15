@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgdark"
+    android:padding="55dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo_full" />
+
+
+    <ImageView
+        android:id="@+id/ivTuner"
+        android:layout_width="131dp"
+        android:layout_height="131dp"
+        android:layout_marginTop="64dp"
+        android:background="@drawable/homepage_button_red"
+        android:gravity="center"
+        android:padding="35dp"
+        android:src="@drawable/ic_tuner"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <ImageView
+        android:id="@+id/ivPlayer"
+        android:layout_width="131dp"
+        android:layout_height="131dp"
+        android:layout_marginTop="64dp"
+        android:background="@drawable/homepage_button_yellow"
+        android:gravity="center"
+        android:padding="35dp"
+        android:src="@drawable/ic_player"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/ivTuner"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <ImageView
+        android:id="@+id/ivSettings"
+        android:layout_width="131dp"
+        android:layout_height="131dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/homepage_button_purple"
+        android:gravity="center"
+        android:padding="35dp"
+        android:src="@drawable/ic_settings"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/ivLearn"
+        app:layout_constraintTop_toBottomOf="@+id/ivPlayer" />
+
+    <ImageView
+        android:id="@+id/ivLearn"
+        android:layout_width="131dp"
+        android:layout_height="131dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/homepage_button_green"
+        android:gravity="center"
+        android:padding="35dp"
+        android:src="@drawable/ic_learn"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivTuner" />
+
+
+
+    <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="131dp"
+        android:layout_height="50dp"
+        android:background="@drawable/button_generic"
+        android:backgroundTint="@color/teal_main"
+        android:drawableLeft="@drawable/ic_help"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="About"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
