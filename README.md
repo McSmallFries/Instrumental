@@ -1,8 +1,12 @@
 # Instrumental
 A guitar utilities application for Android mobile devices.
 
-Built using the TarsosDSP Java library.
-https://0110.be/
-https://github.com/JorenSix/TarsosDSP
+<img src="/img/instr_images.png" data-canonical-src="/img/instr_images.png" width="400" height="300" />
 
-![Prototype Tuner](/img/instr_images.png)
+<img src="/img/proj-instrumental.png" data-canonical-src="/img/proj-instrumental.png" width="400" height="300" />
+
+Built using the TarsosDSP Java library.
+- [Documentation](https://0110.be/)
+- [Repository](https://github.com/JorenSix/TarsosDSP)
+
+
